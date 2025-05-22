@@ -1,0 +1,4 @@
+{
+  "telegramBotToken": "your_token_here",
+  "whitelist": [ 123, 456 ]
+}
